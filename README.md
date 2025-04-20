@@ -47,7 +47,7 @@ I'm currently diving deep into **React** & **Next.js** for building modern, serv
 
 ## 🏆 **GitHub Stats & Achievements**
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=muhammadnasirkhan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox](https://github-readme-stats.vercel.app/api?username=mnasirk97&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox))
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=muhammadnasirkhan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox](https://github-readme-stats.vercel.app/api?username=mnasirk97&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox)
 
 ---
 

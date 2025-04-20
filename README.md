@@ -1,4 +1,3 @@
-
 # 🌟 **Muhammad Nasir Khan** 👨‍💻
 
 Welcome to my GitHub profile! Here's a glimpse of who I am and what I'm working on. Let's connect and build something amazing together!
@@ -48,7 +47,7 @@ I'm currently diving deep into **React** & **Next.js** for building modern, serv
 
 ## 🏆 **GitHub Stats & Achievements**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadnasirkhan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=muhammadnasirkhan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox](https://github-readme-stats.vercel.app/api?username=mnasirk97&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox))
 
 ---
 

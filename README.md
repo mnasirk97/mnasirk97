@@ -11,7 +11,7 @@ Welcome to my GitHub profile! Here's a glimpse of who I am and what I'm working 
 - 💼 **Looking to collaborate on:** Full-stack web apps using **React**, **Node.js**, and **Next.js**. Let’s build **interactive** and **dynamic** projects!
 - 🚀 **Open to discussions on:** Performance optimization in large-scale apps, advanced **React** state management, and **CSS** tricks for modern web design.
 - 📝 **Ask me about:** Web development, building **responsive** websites, crafting **clean code**, and **API** design with **Node.js**.
-- 📫 **Reach me:** [Email me](mailto:khanmuhammadnasir9977@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhammadnasirkhan97) | [Portfolio](https://https://nas-dev.netlify.app/)
+- 📫 **Reach me:** [Email me](mailto:khanmuhammadnasir9977@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhammadnasirkhan97) | [Portfolio](https://https://nas-dev.netlify.app)
 - ⚡ **Fun fact:** I built an interactive website using just **CSS animations** and **JavaScript** — no frameworks, all custom!
 
 ---
@@ -41,7 +41,7 @@ I'm currently diving deep into **React** & **Next.js** for building modern, serv
 ## 🌍 **Let's Connect!**
 
 - [LinkedIn](https://www.linkedin.com/in/muhammadnasirkhan97) – Connect with me on LinkedIn!
-- [Portfolio](https://https://nas-dev.netlify.app//) – Check out my latest projects and collaborations!
+- [Portfolio](https://https://nas-dev.netlify.app) – Check out my latest projects and collaborations!
 
 ---
 

@@ -1,4 +1,4 @@
-# 🌟 **Muhammad Nasir Khan** 👨‍💻
+#  **Muhammad Nasir Khan** �‍💻
 
 Welcome to my GitHub profile! Here's a glimpse of who I am and what I'm working on. Let's connect and build something amazing together!
 
